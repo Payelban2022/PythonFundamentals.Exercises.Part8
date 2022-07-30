@@ -1,0 +1,8 @@
+/Users/payel/Python/PythonFundamentals.Exercises.Part8test_file_reader.py
+/Users/payel/Python/PythonFundamentals.Exercises.Part8tree.py
+/Users/payel/Python/PythonFundamentals.Exercises.Part8file_reader.py
+/Users/payel/Python/PythonFundamentals.Exercises.Part8my_awesome_file.txt
+/Users/payel/Python/PythonFundamentals.Exercises.Part8README.md
+/Users/payel/Python/PythonFundamentals.Exercises.Part8.gitignore
+/Users/payel/Python/PythonFundamentals.Exercises.Part8tree.txt
+/Users/payel/Python/PythonFundamentals.Exercises.Part8locked_out_file.txt
