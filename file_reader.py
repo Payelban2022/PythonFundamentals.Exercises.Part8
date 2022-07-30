@@ -19,7 +19,7 @@ def quick_way_to_get_fired(file_path: str) -> None:
     try:
         reckless_file_reader(file_path)
     except:
-        pass
+            pass
 
 
 # Once we know our code has the potential to raise exceptions, we can handle the exception properly like the code below.
